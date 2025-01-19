@@ -3,9 +3,11 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5Z21yZXd0YmJ4MWltYnA1dGNoNGM2eXN0NzFhbmQ1NTNwYmh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://static.wikia.nocookie.net/722d3979-d955-4ac3-abc7-37147d1874bd/scale-to-width/755" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Systems Engineering student, currently halfway through my university degree at Universidad Dominicana O&M. I am continuously learning and expanding my knowledge in front-end and back-end development, with a particular interest in creating innovative and functional technological solutions.
+
+I consider myself a curious and passionate individual, always seeking new ways to improve and contribute to the tech sector. My goal is to combine my technical and creative skills to develop projects that generate a positive impact.
 - 🌱 I’m currently learning ...
   - Java
   - Angular
@@ -78,7 +80,8 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
