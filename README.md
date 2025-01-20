@@ -13,7 +13,7 @@ I consider myself a curious and passionate individual, always seeking new ways t
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
+- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
 - 📫 Reach out to me at: <a href="opbenjamin21@gmail.com">opbenjamin21@gmail.com</a>
 
 ---
