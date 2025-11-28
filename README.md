@@ -10,6 +10,7 @@ I am a Systems Engineering student, currently halfway through my university degr
 I consider myself a curious and passionate individual, always seeking new ways to improve and contribute to the tech sector. My goal is to combine my technical and creative skills to develop projects that generate a positive impact.
 - 🌱 I’m currently learning ...
   - Java
+  - React
   - Angular
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
