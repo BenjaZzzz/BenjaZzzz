@@ -1,88 +1,199 @@
-<h1 align="center"><b>Hi , I'm Felix B. Ogando </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+  I'm Felix Benjamin Ogando
+</h1>
 
+<h3 align="center">
+💻 Software Engineer | Backend (Java & Spring Boot) | Fullstack Developer
+</h3>
 
-<img align="right" width=300px alt="Unicorn" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5Z21yZXd0YmJ4MWltYnA1dGNoNGM2eXN0NzFhbmQ1NTNwYmh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<p align="center">
+Building scalable systems, APIs, and real-world applications 🚀
+</p>
 
-<img src="https://static.wikia.nocookie.net/722d3979-d955-4ac3-abc7-37147d1874bd/scale-to-width/755" width="30px">&nbsp;***About me***
-
-I am a Systems Engineering student, currently halfway through my university degree at Universidad Dominicana O&M. I am continuously learning and expanding my knowledge in front-end and back-end development, with a particular interest in creating innovative and functional technological solutions.
-
-I consider myself a curious and passionate individual, always seeking new ways to improve and contribute to the tech sector. My goal is to combine my technical and creative skills to develop projects that generate a positive impact.
-- 🌱 I’m currently learning ...
-  - Java
-  - React
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading books.
-- 📫 Reach out to me at: <a href="opbenjamin21@gmail.com">opbenjamin21@gmail.com</a>
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31l6czzu5osxbasqgdol7dpwqpym?si=48b583e5bfcb49de)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BenjaZzzz&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://img.shields.io/github/followers/BenjaZzzz?label=Followers&style=flat"/>
+  <img src="https://img.shields.io/github/stars/BenjaZzzz?affiliations=OWNER&label=Stars&style=flat"/>
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat"/>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=flat"/>
+</p>
 
 ---
 
-## My Skills Include
+## <img src="https://static.wikia.nocookie.net/722d3979-d955-4ac3-abc7-37147d1874bd/scale-to-width/755" width="35px"> About Me
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
-</span>
+<img align="right" width="240px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU5Z21yZXd0YmJ4MWltYnA1dGNoNGM2eXN0NzFhbmQ1NTNwYmh4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
-<h4> Frameworks </h4>
-<span>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+🎓 Systems Engineering student at Universidad Dominicana O&M  
+🚀 Focused on becoming a **Software Engineer specialized in Backend & Fullstack Development**
 
-</span>
+I design and build applications using:
+- Clean Architecture  
+- REST APIs  
+- Scalable backend systems  
+- Fullstack integration  
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  
-</span>
+<br clear="right"/>
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+---
 
+## 📈 Currently Learning
 
+Through my bootcamp, I am working with a modern fullstack ecosystem:
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+- Backend: Java, Node.js, .NET, Python  
+- Frontend: React, React Native, Angular, Vue.js, Ionic  
+- Databases: SQL & NoSQL  
+- DevOps: Docker, AWS, Linux  
 
-</span>
+🚀 Focused on building production-ready applications.
 
-----
+---
+
+## 🚀 What I Bring
+
+✔ Backend development with Java & Spring Boot  
+✔ API design and database modeling  
+✔ Fullstack mindset (Frontend + Backend)  
+✔ Strong problem-solving skills  
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Equipment Issue Management System (EIMS)
+
+**Problem:** Companies struggle to track damaged equipment.
+
+**Solution:** Fullstack system to manage equipment lifecycle.
+
+**Tech Stack:** Spring Boot + React + MySQL  
+
+👉 🔗 **Repository:** _[Add your link here]_
+
+---
+
+### 🔹 Optical Store Management System
+
+**Problem:** Manual inventory & sales processes.
+
+**Solution:** Digital system for inventory, sales, and reservations.
+
+**Tech Stack:** Spring Boot + React  
+
+👉 🔗 **Repository:** _[Add your link here]_
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Core Stack
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+</p>
+
+---
+
+### 💻 Backend
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Debugging-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node_Inspector-339933?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+---
+
+### ⚙️ Tools & Workflow
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome_DevTools-FECA1B?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</p>
+
+---
+
+## 🎧 Spotify Playing
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31l6czzu5osxbasqgdol7dpwqpym)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=BenjaZzzz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BenjaZzzz)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=BenjaZzzz&theme=material-palenight)](https://github.com/BenjaZzzz)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjaZzzz&theme=tokyonight"/>
 </div>
 
-----
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+## 📫 Contact
+
+📧 opbenjamin21@gmail.com  
+💼 https://www.linkedin.com/in/felix-benjamin-ogando-peguero-b807a5267/
+
+---
+
+## 🚀 Open to Work
+
+✔ Junior Software Engineer  
+✔ Backend Developer  
+✔ Fullstack Developer  
+✔ Internships  
+
+---
+
+✨ *“Building today what I want to master tomorrow.”*
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
