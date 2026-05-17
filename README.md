@@ -131,7 +131,8 @@ public class FelixBenjamin {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaZzzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BenjaZzzz&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BenjaZzzz&theme=tokyonight"/>
 </div>
 
 <div align="center">
