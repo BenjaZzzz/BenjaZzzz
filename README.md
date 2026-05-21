@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 ```java
-public class FelixBenjamin {
+public class Felix_Benjamin {
 
     String name     = "Felix Benjamin Ogando Peguero";
     String role     = "Software Engineer | Backend & Fullstack Developer";
